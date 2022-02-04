@@ -23,12 +23,13 @@ export default function Home({ allPostsData }) {
         <ul className={utilStyles.list}>
           {allPostsData.map(({ id, date, title, summary }) => (
             <li className={utilStyles.listItem} key={id}>
+            <Link href={`/posts/${id}`}>
             <img
             src={`https://og-image.vercel.app/${encodeURI(
             title
           )}.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fvercel-triangle-white.svg`}
             alt="Picture of the title"
-   />
+   /></Link>
               <Link href={`/posts/${id}`}>
                 <a class="title">{title}</a>
               </Link>
