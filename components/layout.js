@@ -72,7 +72,7 @@ export default function Layout({ children, home }) {
         </div>
       )}
 
-        <p class="footer"> 💙 Minar</p>
+        <p class="footer">💙</p>
     </div>
 
 
