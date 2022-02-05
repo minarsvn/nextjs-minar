@@ -9,6 +9,8 @@ export default function Home({ allPostsData }) {
   return (
     <Layout home>
       <Head>
+      <link rel="manifest" href="/manifest.json" />
+<meta name="theme-color" content="#317EFB"/>
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>

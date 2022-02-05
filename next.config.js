@@ -1,6 +1,7 @@
-// next.config.js
-module.exports = {
-  images: {
-    domains: ['og-image.vercel.app'],
-  },
-}
+const withPWA = require('next-pwa')
+
+module.exports = withPWA({
+    pwa: {
+        dest: 'public'
+    }
+})

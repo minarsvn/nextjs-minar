@@ -11,6 +11,8 @@ export default function Layout({ children, home }) {
   return (
     <div className={styles.container}>
       <Head>
+
+<link rel="manifest" href="/manifest.json" />
         <link rel="icon" href="/images/Cat.png" />
         <meta
           name="description"
