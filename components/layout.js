@@ -11,7 +11,7 @@ export default function Layout({ children, home }) {
   return (
     <div className={styles.container}>
       <Head>
-
+<script data-ad-client="ca-pub-9177907791887619" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <link rel="manifest" href="/manifest.json" />
         <link rel="icon" href="/images/Cat.png" />
         <meta
