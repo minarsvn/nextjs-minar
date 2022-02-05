@@ -1,5 +1,5 @@
 ---
-title: "Beginner guide to HTML"
+title: "Beginners guide to HTML"
 date: "2022-01-09"
 summary: "HTML “Hyper Text Markup Language” is popularly used on all types of website. It is not a programming language because it is a markup language. And it can’t program anything it just build the basic structure of a webpage or website, that’s why it is not a programming language.I have told before that if I compare a webpage with a building then the building structure is comparable with HTML. HTML made the main structure of the webpage another language like "
 ---
