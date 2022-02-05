@@ -9,15 +9,7 @@ export default function Home({ allPostsData }) {
   return (
     <Layout home>
       <Head>
-      <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-ECZTE4YSWF"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-ECZTE4YSWF');
-</script>
+      
       <script data-ad-client="ca-pub-9177907791887619" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
       <link rel="manifest" href="/manifest.json" />
 <meta name="theme-color" content="#317EFB"/>
