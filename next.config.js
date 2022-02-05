@@ -5,3 +5,7 @@ module.exports = withPWA({
         dest: 'public'
     }
 })
+// next.config.js
+module.exports = {
+  swcMinify: true
+}
