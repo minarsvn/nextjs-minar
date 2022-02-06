@@ -1,86 +1,52 @@
 ---
 title: "How to create a website"
 date: "2022-01-07"
-summary: "HTML “Hyper Text Markup Language” is popularly used on all types of website. It is not a programming language because it is a markup language. And it can’t program anything it just build the basic structure of a webpage or website, that’s why it is not a programming language."
+summary: "Today I’ll guide about how to create a website from (A-Z). Before creating a website you need to know what a website is and how website performs before a user.A website is combined with some webpage. A question can be in your mind that what webpage is. I’ll answer this, a webpage is a page which i"
 ---
 
 
-BEGINNER GUIDE TO HTML AND WHAT IS IT
+Today I’ll guide about how to create a website from (A-Z). Before creating a website you need to know what a website is and how website performs before a user.
 
-PART-1
+A website is combined with some webpage. A question can be in your mind that what webpage is. I’ll answer this, a webpage is a page which is displayed to a website user with full of text, images or videos. As an example like a book, If I think that a book is a website then every pages of that book is webpage and many more webpages build a website.
 
-HTML “Hyper Text Markup Language” is popularly used on all types of website. It is not a programming language because it is a markup language. And it can’t program anything it just build the basic structure of a webpage or website, that’s why it is not a programming language.
+There are two types of websites and they are
 
-I have told before that if I compare a webpage with a building then the building structure is comparable with HTML. HTML made the main structure of the webpage another language like CSS-“CASCADING STYLE SHEET”, JS-“JAVA SCRIPT”, PHP-“HYPERTEXT PRE PROCESSOR” that run, design and dynamic it.
+1.  Static Website  : One can understand from the name “static” that means this type of website written in static language and this type of website is not editable from Admin Panel. For change any word of that type of website he need to access the source code. And all the webpage remain same like you saw a year ago .This type of website made with only HTML.
 
-HTML is free to use you don’t have to pay for using this language. If you want to learn WEB DESIGN or WEB DEVELOPMENT you need to learn HTML, CSS, JS must. Now I’ll say about only HTML. It is very easy to learn and you don’t need much time to learn it.
-
-You can design a webpage easily by HTML and it is supported by all browsers. The main thing is that you don’t need a compiler to run the code. You don’t need an IDE-“INTEGRATED DEVELOPMENT ENVIRONMENT” you can write the code in Notepad or WordPad and thee software is built in with every operating system. Just search for notepad in your computer, open it and write the code and save it. You have to save HTML file as .htm or .html extension. For see the result open the file location and open the file with any browser. You’ll find the result.
-
-HTML is the combination of TAG .All the code in a webpage input with TAG. A TAG has three sections
-
-1.  Opening Tag
-
-2.  Contents of Tag
-
-3.  Closing tag
+2.  Dynamic Website  : Dynamic stand for changeable. That means Admin can change the content of homepage dynamically. And regularly it is changing. As example how you see the homepage a day ago is always different from, now. News-paper website, Social-media website is Dynamic Website. A dynamic Website is written in dynamic language like PHP, ASP.NET etc.
 
 
-As example <p> this is a text</p>. Here <p> is opening tag, this is a text is the content of tag and lastly </p> is closing tag. Opening tag starts a tag value and by adding closing tags it end its activity But there are many tag they don’t have any closing tag .ex-“<hr>,<br>”
+Now come to the main concepts of creating a website. There are many paths open to create a website. You can create website by writing code by own or if you don’t have more time to learn a language then you can create by free cms. Cms stand for content management system. This gives us the free environment to write blog without programming and without any knowledge of programming. There are many free CMS like WORDPRESS, BLOGSPOTS. Or want to create website own then you may need to learn different type of language like HTML, CSS, JS for static site and PHP, MYSQL, ASP.NET for Dynamic website.
 
-An opening tag stays inside of < tag name >. And closing tag stay inside of this </ tag name >. <p> this is a text</p> -here the tag “p” inside < > here and closing tag of “p” inside of it </ >. Or if you don’t give the slash your code will break and run a wrong value. So be careful with closing a tag.
+HTML [Hyper Text Markup Language]: HTML is not a programming language it is a markup language. This language is written for create the basic structure of a website. Its only creates the structure that’s why it is only markup language. Every types of website need this language to create the structure.
 
-Html Attribute which give many feature to Tag. It is using inside the opening tag. Ex-<tag attribute=”value”>content</tag>. An attributes have two parts
+CSS [Cascading Style Sheet]: CSS used to beautify the webpage and without CSS it is impossible to create a beautiful and responsive website.
 
-1.  Attribute Name
+JS [Java Script]: JS is written for Dynamic a website. By writing this language a developer can makes dynamic website.
 
-2.  Attribute Value
+PHP [Hyper Text Pre-Processor]: PHP is a programming language, by which we can create a great dynamic website. Most of the website in WWW is written in PHP. It collects data and show the result dynamically in front of user. My website is also created by PHP.
 
+MYSQL: MYSQL is a data management system which stores the websites data and managed by PHP.
 
+Shortly I can compare HTML, CSS, JS with a building .As HTML create the Structure of a building, CSS beautify the building and JS help to run the lift.
 
-
-We can use many attribute inside one tag. Ex-`<p class=”paragraph” id=”data”>this is a text</p>`. Here “P” is opening tag and “style”, “class” and ”id” is attribute name and “paragraph”, “data” is attribute name.
-
-
-HTML STRUCTURE
-
-HTML maintains a structure which defines various element like title, body etc.
+I’ll write how to create a Static site with HTML, CSS & JS.
 
 
+HTML is not too hard to learn. You may need a few months to learn it fully. I’ll refer you to learn HTML, CSS, JS from [www.w3schools.com](http://www.w3schools.com)  .I’ve also learn from there. You can also download some E-Book from different source. It will improve your experience .After learning those you may go to the second part.
 
+** [Or if you don’t have any interest to learn it then you can go for WORDPRESS, JOOMLA, DRUPAL, BLOGSPOT for free .You don’t need any programming experience. Just go to the next section] **
 
+The second most important thing is choosing your website’s topic or niche. There are many topics or niches open to you but I’ll say that choosing niche is not easy and suggest you to choose that type of niche by which you can write and interested to. Cause one cannot write anything against his passion. So listen to your mind.
 
+Build your website on your computer. If you want to use PHP, MYSQL then download XAMPP or WAMP and set up the environment for Localhost .Draft your design and make it by coding with HTML, CSS and JS etc.
 
+Thirdly you need a domain name for your website. A domain name is a name which identifies your blogs. Choose the domain name according to your chosen niche. Cause if your domain name doesn’t match with your niche or topic then visitor won’t feel free to read your blogs. You can buy a domain name in only 9$ for .COM .
 
+Now most important thing is buy a hosting package. For this I suggest you to research before buying a hosting package. And buy Package from popular provider like GODADDY, FREENOM etc. Another important thing is that don’t buy too much space from hosting provider. Just calculate how much space you need. For a blog Website you may need 500MB to 1000MB package.
 
+Now it’s time for publishing your website. Go to your C-panel and link to file manager then paste your file of website. And now your website is available in the World Wide Web.
 
+Search your domain name by Google and Bing see your result will appear if not use Google Search Console and Bing Webmaster to index your site.
 
-
-
-
-
-Here all the tag stay inside of `<html>` and`</html>` tag. The tag <head> means heading. Here you can place <title> tag CSS, JS code link, Meta tags and Link tags. The <body> tags define the main body or the main part of code. We can place here text, audio, video graphics etc. And you have to close all the tag before saving it and save it with any name with .htm or .html extension. Then run it.
-
-Write this code on notepad and execute it
-
-`<html>
-
-<head>
-
-<title>This is title</title>
-
-</head>
-
-<body>
-
-<p>This is a paragraph</p>
-
-</body>
-
-</html>`
-
-After run the code
-
-![](https://lh3.googleusercontent.com/2uOYibUIuxBCblGwNgQtxVXmxad54hY0oa8z7yfWuKQsE6vyG-zZSI1nFGHxa2IIGokf6E1rBxaBaY7HQy1YXWNmMGSogn1Q1Qx19DEPwRQH27fwWo08jy9OpP01pBdRm4sJOgrn)
-
-This will appear. See the title in the top of the browser and see the body text “this is a paragraph”.
+Learn SEO [Search Engine Optimization] which help you to engage visitor in your site.
